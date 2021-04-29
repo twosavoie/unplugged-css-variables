@@ -102,6 +102,7 @@ textarea {
   --footer: blue; 
   --mid-section: grey;
   --mid-section-2: silver;
+  --logo-color: white;
   --nav-color: white;
   --text-color: #e2e3ed;
   --button: red;
@@ -149,6 +150,7 @@ body {
 }
 .logo {
   font-family: var(--logo-font);
+  color: var(--logo-color);
 }
  
 ul, 
